@@ -1,0 +1,7 @@
+test/
+examples/
+mdimg/
+.git/
+.editorconfig
+.gitignore
+jest.config.js
