@@ -1,6 +1,11 @@
 # ✨ OP i18n (op-i18n) ✨
 Easy Node.js i18n with json locale file storage. No fancy grammar.
 
+## 📢 Notice
+This repository is no longer maintained. Because I am going to work on totally new internationalization module with tot file format.
+I found JSON is not good when we handle a huge data. And we cannot obtain partial data as well. I found many delays from my softwares.
+I would not remove module so you can still use it however there won't be any update as I will create something better.
+
 ## ▶️ install
 ```
 npm i op-i18n
